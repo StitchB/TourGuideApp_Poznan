@@ -13,7 +13,7 @@
             android:title="@string/category_museums" />
         <item
             android:id="@+id/nav_events"
-            android:icon="@drawable/ic_event"
+            android:icon="@drawable/ic_events"
             android:title="@string/category_events" />
         <item
             android:id="@+id/nav_restaurants"
