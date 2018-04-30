@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_top_things"
+            android:checked="true"
+            android:icon="@drawable/ic_top_things"
+            android:title="@string/category_top_things" />
+        <item
+            android:id="@+id/nav_museums"
+            android:icon="@drawable/ic_museums"
+            android:title="@string/category_museums" />
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/ic_event"
+            android:title="@string/category_events" />
+        <item
+            android:id="@+id/nav_restaurants"
+            android:icon="@drawable/ic_restaurants"
+            android:title="@string/category_restaurants" />
+    </group>
+
+</menu>

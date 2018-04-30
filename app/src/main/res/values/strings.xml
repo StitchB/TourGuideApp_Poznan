@@ -1,0 +1,143 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Tour Guide - Poznan</string>
+
+    <!-- Category name for Top Things [CHAR LIMIT=20] -->
+    <string name="category_top_things">Top Things</string>
+
+    <!-- Category name for the vocabulary elements for Museums [CHAR LIMIT=20] -->
+    <string name="category_museums">Museums</string>
+
+    <!-- Category name for the vocabulary elements for Events [CHAR LIMIT=20] -->
+    <string name="category_events">Events</string>
+
+    <!-- Category name for the vocabulary elements for Restaurants [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!-- Descriptions & images source: https://www.tripadvisor.com/, as well as particular attractions web pages:
+     http://bramapoznania.pl/en/
+     https://en.wikipedia.org/wiki/Pozna%C5%84_Cathedral
+     https://www.atlasobscura.com/places/the-fighting-goats-of-poznan
+
+     https://www.muzarp.poznan.pl/en/history-of-the-museum
+     http://www.mnp.art.pl/en/museum/branches/museum-of-musical-instruments/
+     http://www.old2.muzarp.poznan.pl/en/projects/archaeological-reserve-genius-loci/
+     http://www.mnp.art.pl/en/museum/branches/museum-of-the-history-of-poznan/
+     http://www.polandtraveltours.com/en/travelguide/armoured-weapon-museum-poznan
+
+     http://www.motorshow.pl/en/for_exhibitors/a_why_participate_in_motor_show/
+     http://www.cavaliada.pl/en/
+     http://www.gamearena.pl/en/for_visitors/what-where-when/
+     -->
+
+    <!-- T O P  T H I N G S  T O  D O -->
+
+    <string name="top_things_name_fara">Parish Church of St. Stanislaus (Fara Church)</string>
+    <string name="top_things_description_fara">This huge parish church is known for its magnificent Baroque ornamentation in the chapels of the Holy Cross, which feature a 16th-century crucifix and the Virgin Mary.</string>
+
+    <string name="top_things_name_old_market_square">Old Market Square</string>
+    <string name="top_things_description_old_market_square">The central square of the city established in 1253 on the left bank of the Warta River was designed on the base of a square with four 141 - metre sides.</string>
+
+    <string name="top_things_name_porta_posnania">Porta Posnania</string>
+    <string name="top_things_description_porta_posnania">Up till very recently, the cultural heritage of the Cathedral Island has been very little known. Not many visitors are aware that in the 10th century it was the site of the most powerful fortified settlement established by Poland’s first know ruler, Duke Mieszko I. It is thus the cradle of the Polish state. The primary purpose of Porta Posnania is to familiarize visitors with its history and significance, but what is more important, to inspire us to explore the Island on our own and to get an up close look at its historic sights.</string>
+
+    <string name="top_things_name_botanical_gardens">Poznan Botanical Gardens</string>
+    <string name="top_things_description_botanical_gardens">The Botanical Garden was established in 1925 and at the present day occupies an area of approximately 22 ha, gathering about 7000 taxa often growing in special collections.</string>
+
+    <string name="top_things_name_malta_lake">Malta Lake</string>
+    <string name="top_things_description_malta_lake">The lake is known for major kayak and rowing events. It was created by damming up the Cybina River and covers an area of 64 hectares.</string>
+
+    <string name="top_things_name_cathedral">Poznan Cathedral of St. Peter and Paul</string>
+    <string name="top_things_description_cathedral">The Archcathedral Basilica of St. Peter and St. Paul in Poznan is one of the oldest churches in Poland and the oldest Polish cathedral, dating from the 10th century. It stands on the island of Ostrow Tumski, north-east of the city centre.</string>
+
+    <string name="top_things_name_palm_house">The Poznan Palm House</string>
+    <string name="top_things_description_palm_house">The Poznan Palm House invites you to an unforgettable journey through distant continents, amongst the rich flora of various climatic zones. The impression will be enriched with the birds sounds, the rush of water and the aquaria full of exotic fish.</string>
+
+    <string name="top_things_name_fighting_goats">The Fighting Goats of Poznan</string>
+    <string name="top_things_description_fighting_goats">A midday walk through the colorful market square of Poznan in western Poland means vibrantly painted buildings, bustling cafes, food stalls and vendors—and throngs of locals and tourists jostling for the best spot to watch an over 465-year-old fight. It just happens to be between a couple of mechanical goats (which first battled it out in the year 1551).</string>
+
+    <string name="top_things_name_lech_brewery_tour">Lech Brewery Tour</string>
+    <string name="top_things_description_lech_brewery_tour">The brewing tradition in Poznan and the Wielkopolska Region encompasses a number of interesting themes, industrial architecture monuments, ingenuity, and hard work of the brewers. Only true beer enthusiasts know the details of this history and for them even the smallest souvenirs from the old breweries are worth their weight in gold. They all contributed to the creation of the “Kronika Browarow Wielkopolskich 1985 – 1995” (Wielkopolska Breweries Chronicle 1895-1995) exhibition, which presents an extensive collection of beer ads and photos of breweries and beer houses from Poznan, as well as unique documents and anecdotes. For Lech Browary Wielkopolski, the heir to the tradition of the Browar Kobylepole and the Hugger Brewery, this history is extremely important also on account of the people who created it. The legacy of the Hugger Brewery, which was brewing beer at Półwiejska Street until 1980, is being continued in the present brewery located at Szwajcarska 11. The same experts who were working there joined our brewery in 1980s and 1990s and contributed to the production the iconic Lech beer in 1982. Nowadays they give tours to the visitors, sharing their passion and knowledge about beer.</string>
+
+    <string name="top_things_name_maltese_thermas">Maltese Thermas</string>
+    <string name="top_things_description_maltese_thermas">The most modern and largest water sports and recreational complex in Poland, located on the bank of the Malta Lake, in the heart of Poznan. On the area of 6,000 m2, there are 18 sports and recreational swimming pools of a total water surface of 5000 m2. 14 rooms on the area of 1000 m2 create the World of Saunas. A professional spa with 17 treatment rooms on the area of 750 m2 is the best spa in Poland.</string>
+
+    <string name="top_things_name_new_zoo">New Zoo</string>
+    <string name="top_things_description_new_zoo">The huge 116 hectare New Zoo was opened to the public in 1974 after seven years of construction. Housing over 2000 beasts representing 140 species, it\'s comprised of 60 percent pine and mixed forests with a man-made stream and string of ponds running through the grounds.</string>
+
+
+    <!-- M U S E U M S -->
+
+    <string name="top_things_name_national_museum">About National Museum in Poznan</string>
+    <string name="top_things_description_national_museum">The Poznan museum exists from 1857. It was renamed to National Museum in Poznan in 1950. It is one of the oldest, biggest and most important museums in Poland. You can find here paintings by J. Malczewski, O. Boznanska, modern art by Kantor, Stazewski, Kulik, Gustowska as well as European paintings, coffin portraits or a collection of portraits of Roman Emperors.</string>
+
+    <string name="top_things_name_archaeological_museum">Poznan Archaeological Museum</string>
+    <string name="top_things_description_archaeological_museum">History of the Museum The beginnings of today\'s Poznan Archaeological Museum fall on the second half of the nineteenth century, when in Greater Poland, as in all of Europe, there was a rapid increase in interest in antiquity, including archeology.</string>
+
+    <string name="top_things_name_museum_of_musical_instruments">Museum of Musical instruments</string>
+    <string name="top_things_description_museum_of_musical_instruments">The Museum of Musical Instruments was established in 1945 by Zdizsław Szulc. It is one of the few such museums in Europe, the only in Poland.</string>
+
+    <string name="top_things_name_genius_loci">Genius Loci Archaeological Park</string>
+    <string name="top_things_description_genius_loci">Exposition of the unique remains of the early Piast stronghold from the 10th century in a modern building equipped with state-of-the-art multimedia.</string>
+
+    <string name="top_things_name_historical_museum">Historical Museum of Poznan</string>
+    <string name="top_things_description_historical_museum">Museum of the History of Poznan is situated in the center of the Old Market Square – the former seat of municipal authorities. Originally it was a single-storey building erected at the latest at the turn of the 14th century. The City Hall was rebuilt in a stately manner in the mid-16th century. by Giovanni Baptista di Quadro (he took to Poznan so much that he decide to settle down here. He married a Pole, Barbara Sztametowna).</string>
+
+    <string name="top_things_name_armored_weaponry_museum">Armored Weaponry Museum</string>
+    <string name="top_things_description_armored_weaponry_museum">The Armoured Weapon Museum was established in 1963-1964. Initially, it was a place where the students had classes on building and operation of the armoured equipment, in which, at that time, the Polish Army was equipped.</string>
+
+
+    <!-- E V E N T S -->
+
+    <string name="top_things_name_night_of_museums">Night of Museums</string>
+    <string name="top_things_description_night_of_museums">The first Night of Museums took place in Berlin in 1997, and the concept spread through Europe like wildfire: currently over 120 major European cities (and many minor ones) organise their own museum nights. It\'s a pretty big deal, with thousands of people heading out to take part and visit museums big or small. If you\'re into this kind of stuff, keep in mind that Krakow is organising the event a night early, giving you a chance to swing by both cities (they\'re certainly both worth it). Follow facebook to find more top_thing during Night of Museums in Poznan.</string>
+
+    <string name="top_things_name_air_show">Air Show</string>
+    <string name="top_things_description_air_show">Everyone loves them a good air show. It\'s like a dance routine performed by aeroplanes in the sky! Last year, over 40000 people enjoyed the various top_things put on by the Poznan Air Show, which included a stationery exhibition with helicopters, gliders, cargo planes, and even supersonic aircraft - not to mention the various choreographed in-the-air portion, performed by world-class pilots. This year promises to be no different, with over 10 hours of shows to keep you entertained and dozens of airships to keep you curious.</string>
+
+    <string name="top_things_name_poznan_motor_show">Poznan Motor Show</string>
+    <string name="top_things_description_poznan_motor_show">Motor Show is the best exhibition infrastructure in Poland located in the city centre with four days dedicated to car and motorbike lovers, caravanning enthusiasts and aviation fans.</string>
+
+    <string name="top_things_name_pyrkon">Pyrkon</string>
+    <string name="top_things_description_pyrkon">Pyrkon is a convention for fans of broadly defined fantasy organized in Poznan. The first edition of Pyrkon took place in 2000 on a primary school in Debiec district. At first it was a small convention, but the idea seemed to kick out. Since then Pyrkon has been evolving nonstop, drawing more and more fans every year. Today it\’s the biggest festival of its kind in Poland and one of the largest in Europe! Because of the growing number of participants the convention was moved to the Poznan International Fair in 2011. In 2017 Pyrkon was visited by over 44 000 people.</string>
+
+    <string name="top_things_name_cavaliada">Cavaliada</string>
+    <string name="top_things_description_cavaliada">Cavaliada is held in Poznan, Lublin and Warsaw. This is the only indoor equestrian event in this part of Europe which has received an official accreditation of the International Federation of Equestrian Sports and the "Teraz Polska" distinction.</string>
+
+    <string name="top_things_name_poznan_game_arena">Poznan Game Arena</string>
+    <string name="top_things_description_poznan_game_arena">The largest computer games and multimedia entertainment fair in Poland!</string>
+
+
+    <!-- R E S T A U R A N T S -->
+
+    <string name="top_things_name_kyokai_sushi">Kyokai Sushi Bar</string>
+    <string name="top_things_description_kyokai_sushi">High class, high prices, exquisite food, casual service and overall a fantastic experience. Highly recommended for foodies. Ideal for a romantic dinner and worth a special visit.</string>
+
+    <string name="top_things_name_na_winklu">Na Winklu</string>
+    <string name="top_things_description_na_winklu">Delicious baked pierogi with dips.</string>
+
+    <string name="top_things_name_ratuszova">Restauracja Ratuszova</string>
+    <string name="top_things_description_ratuszova">Top quality local cuisine in a nice, historic setting. Stylish and very tasty stuff. The portions are generously sized so beware not to order more than you can eat!</string>
+
+    <string name="top_things_name_pyra_bar">Pyra Bar</string>
+    <string name="top_things_description_pyra_bar">Most of the foods are based on potatoes. The service is fast, food is tasty and served very hot, fresh from the oven.</string>
+
+    <string name="top_things_name_dark_restaurant">Dark Restaurant</string>
+    <string name="top_things_description_dark_restaurant">The main reason to go here is the experience of dining in pitch dark and not even being able to see what you eat - or knowing what you eat, they will not tell you until afterwards. You fumble your way around the table, knock over your wine glass and eat with your fingers like a five year old...</string>
+
+    <string name="top_things_name_whiskey_in_the_jar">Whiskey in the Jar</string>
+    <string name="top_things_description_whiskey_in_the_jar">Great atmosphere and what\’s the most important amazing steak and ribs...</string>
+
+    <string name="top_things_name_wiejskie_jadlo">Wiejskie Jadlo</string>
+    <string name="top_things_description_wiejskie_jadlo">Superb traditional Polish food just off the main square...</string>
+
+    <string name="top_things_name_manekin">Manekin</string>
+    <string name="top_things_description_manekin">Best pancakes in town. Super delicious and very fast.</string>
+
+    <string name="top_things_name_zielona_weranda">Zielona Weranda</string>
+    <string name="top_things_description_zielona_weranda">Unique place that changes its outfit adjusting it to various seasons. Good variety of dishes. Portions are big and not overly expensive. All dishes very tasty and beautifully garnished.</string>
+
+</resources>
