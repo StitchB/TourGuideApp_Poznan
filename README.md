@@ -152,6 +152,6 @@ Project #5 for Android Basics by Google Nanodegree Program
 
 <br />
 <p align="center"> 
-  <img src="showcase/tour_guide_app_1.jpg" alt="Project Image 1">
-  <img src="showcase/tour_guide_app_2.jpg" alt="Project Image 2">
+  <img src="showcase/tour_guide_app_1.jpg" alt="Project Image 1" width="390">
+  <img src="showcase/tour_guide_app_2.jpg" alt="Project Image 2" width="390">
 </p>
